@@ -33,9 +33,8 @@ Lenguaje de desarrollo: PHP v7.3 con Guzzle.
 ## Para utilizar el cliente.
 
 Se debe desplegar el cliente en un servidor apache con php.
-Descomprimir el contenido del archivo *rest-enrollment-client.zip*  del servidor y localizarlo en */var/www/html*
 
-La URL de acceso al cliente es: [http://localhost/cliente-enrollment/index.php](http://localhost/cliente-enrollment/index.php)
+La URL de acceso al cliente es: [http://uasb-api.rootcode.com.bo/jnavarro/rest-enrollment-client/](http://uasb-api.rootcode.com.bo/jnavarro/rest-enrollment-client/)
 
 Cuando se accede se mostrará la siguiente pantalla.  
 ![Pantalla de inicio](pantalla_inicio.png)
